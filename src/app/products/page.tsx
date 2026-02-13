@@ -13,10 +13,13 @@ export default function ProductsPage() {
     const defaultProducts: Product[] = [
       { id: 1, name: "Super Insecticide Spray", price: 1500, image: "/super spry.webp" },
       { id: 2, name: "Advanced Fungicide", price: 1800, image: "/advanced spry.jpg" },
+      { id: 3, name: "Weed Killer Solution", price: 1200, image: "/weer-killer-slotion.jfif" },
+      { id: 4, name: "Termite Control Spray", price: 2000, image: "/termittek.webp" },
       { id: 5, name: "Cotton Special Pesticide", price: 1700, image: "/cotton.webp" },
       { id: 6, name: "Rice Field Protector", price: 1600, image: "/rice.webp" },
       { id: 7, name: "Anti-Locust Spray", price: 2100, image: "/locust.webp" },
       { id: 8, name: "Crop Booster Liquid", price: 1900, image: "/boster spry.webp" },
+      { id: 9, name: "Multi-Purpose Pesticide", price: 1750, image: "/multis.jfif" },
       { id: 10, name: "Plant Protection Spray", price: 1400, image: "/plants.webp" },
     ];
 
